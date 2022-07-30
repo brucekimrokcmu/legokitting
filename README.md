@@ -1,6 +1,6 @@
 # lego-kitting-team3
 Code for programming a Franka robot arm to autonomously pick up lego bricks to make a desired lego kit.<br>
-I was mainly responsible for the manipulation implementation with Alex. [Full Video Link](https://www.youtube.com/watch?v=qngiJ5iDRoQ)<br>
+I was mainly responsible for the manipulation implementation with Alex P. [Full Video Link](https://www.youtube.com/watch?v=qngiJ5iDRoQ)<br>
 
 **Nominal Use**<br>
 ![Nominal Use](https://j.gifs.com/Rl7840.gif)<br>
