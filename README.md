@@ -2,7 +2,6 @@
 Code for programming a Franka robot arm to autonomously pick up lego bricks to make a desired lego kit.<br>
 [Full Video Link](https://www.youtube.com/watch?v=qngiJ5iDRoQ)<br>
 
-
 **Nominal Use**<br>
 ![Nominal Use](https://j.gifs.com/Rl7840.gif)<br>
 
@@ -16,5 +15,4 @@ Code for programming a Franka robot arm to autonomously pick up lego bricks to m
 ![Cluttered Workspace](https://j.gifs.com/mqP7lE.gif)<br>
 
 **Cobot Use Case**<br>
-![Cobot Use Case](https://j.gifs.com/A6x8j7.gif)<br>
-
+![Cobot Use Case](https://j.gifs.com/LZRAMp.gif)<br>
